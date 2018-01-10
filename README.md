@@ -1,11 +1,11 @@
-#Agent Intelligent jouant aux échecs
+# Agent Intelligent jouant aux échecs
 Intelligence Artificielle - UQAC Automne 2017
 
-##Auteurs
+## Auteurs
 Esmé James
 Wilfried Pouchous
 
-##Étapes de lancement
+## Étapes de lancement
 1. Téléchargez et dézipper le projet
 2. Dans le fichier jeu_echec_stage\jeu_echec_stage\Form1.cs, changez la valeur du chemin du string IMG_PATH = "D:\\Documents\\AgentEchec\\jeu_echec_stage\\images\\" au chemin correct du projet sur votre ordinateur
 3. Éxécutez jeu_echec_stage
