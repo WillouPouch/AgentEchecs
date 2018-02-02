@@ -1,5 +1,5 @@
 # Agent Intelligent jouant aux échecs
-Intelligence Artificielle - UQAC Automne 2017
+Cours Intelligence Artificielle - UQAC Automne 2017
 
 ## Auteurs
 Esmé James
